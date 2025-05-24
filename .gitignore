@@ -1,0 +1,7 @@
+# Compiled object files
+**/*.o
+
+# Executable binaries
+desafio-1/hello_humans
+
+notes_about_checkinstall_installation.txt
